@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./Exercises/pset2",
+        "./Exercises/pset1",
+        "./Exercises"
+    ]
+}
